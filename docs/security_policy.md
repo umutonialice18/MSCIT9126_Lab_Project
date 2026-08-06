@@ -116,3 +116,15 @@ Git history is used to track changes and restore previous secure versions
 
 when security issues occur.
 
+
+
+
+
+\## Security Monitoring
+
+
+
+Repository activities must be monitored through Git history.
+
+Unauthorized changes should be identified and investigated.
+
