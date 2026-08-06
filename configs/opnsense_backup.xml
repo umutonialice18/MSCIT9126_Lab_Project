@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<opnsense>
+    <system>
+        <hostname>opnsense-firewall</hostname>
+        <description>MSCIT9126 Lab Firewall Configuration Backup</description>
+    </system>
+
+    <network>
+        <interface>LAN</interface>
+        <interface>WAN</interface>
+    </network>
+
+    <security>
+        <firewall_enabled>true</firewall_enabled>
+        <logging_enabled>true</logging_enabled>
+    </security>
+</opnsense>

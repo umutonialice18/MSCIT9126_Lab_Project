@@ -1,0 +1,16 @@
+# MSCIT9126 Firewall Rules
+
+Rule 1:
+Allow SSH access from authorized devices.
+
+Rule 2:
+Allow HTTP and HTTPS traffic.
+
+Rule 3:
+Allow DNS requests.
+
+Rule 4:
+Block unauthorized inbound connections.
+
+Rule 5:
+Log all denied traffic for monitoring.
