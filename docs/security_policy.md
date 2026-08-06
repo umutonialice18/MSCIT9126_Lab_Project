@@ -40,3 +40,49 @@ Only authorized users should access the lab environment and repository.
 
 Sensitive files must not be uploaded to the public repository.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\## Version Control Access Policy
+
+
+
+All repository access follows the principle of least privilege.
+
+Only authorized users can modify project files.
+
+
+
+\## Code Review Process
+
+
+
+All changes must be reviewed before merging into the main branch.
+
+Pull requests are used to verify security and quality requirements.
+
+
+
+\## Incident Response and Rollback
+
+
+
+Git history is used to track changes and restore previous secure versions
+
+when security issues occur.
+
