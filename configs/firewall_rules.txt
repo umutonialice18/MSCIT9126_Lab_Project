@@ -14,3 +14,9 @@ Block unauthorized inbound connections.
 
 Rule 5:
 Log all denied traffic for monitoring.
+
+# Emergency Firewall Rule Update
+
+Block unauthorized inbound traffic.
+Allow only approved services and ports.
+Review firewall changes before deployment.
