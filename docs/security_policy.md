@@ -128,3 +128,5 @@ Repository activities must be monitored through Git history.
 
 Unauthorized changes should be identified and investigated.
 
+GPG commit signing is enabled for this lab repository.
+GPG commit signing is enabled for this lab repository.
