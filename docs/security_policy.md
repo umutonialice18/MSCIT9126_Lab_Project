@@ -130,3 +130,4 @@ Unauthorized changes should be identified and investigated.
 
 GPG commit signing is enabled for this lab repository.
 GPG commit signing is enabled for this lab repository.
+Repository changes must be reviewed before integration into the production branch.
